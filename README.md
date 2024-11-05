@@ -1,6 +1,6 @@
 👋 Hi, I’m Kate Jermakova
 
-I'm a 23 yo second-year student on the Artificial Intelligence program in Amsterdam. And I am passionate about Data Science.
+I'm a 25 yo second-year student on the Artificial Intelligence program in Amsterdam. And I am passionate about Data Science.
 
 📫 Reach me out 📫 
 
